@@ -1,0 +1,303 @@
+pwd
+cd Desktop/
+
+$ mkdir -p devtech/{projetos/{site-institucional},financeiro,RH,docs}
+
+$ mkdir devtech
+
+$ cd devtech/
+
+$ mkdir projetos,financeiro,RH,docs
+
+$ mkdir -p {projetos,financeiro,RH,docs}
+
+$  cd projetos
+
+$ mkdir -p {site-institucional,sistema-interno}
+
+$ cd site-institucional/
+
+$ cd ..
+
+$ cd site-institucional/
+
+$ mkdir -p {src,public,README.MD
+
+$ mkdir -p {src,public,README.MD}
+
+$ touch readme.txt
+
+$ mv readme.txt readme.md
+
+$ cd public
+
+$ touch index.html
+
+$ cd ..
+
+$ ls
+public/  readme.md  src/
+
+$ cd src
+
+$ mkdir -p {css,js,img}
+
+$ cd ..
+
+$ cd ..
+
+$ cd sistema-interno/
+
+$ mkdir -p {backend,frontend}
+
+$ cd backend/
+
+$ mkdir src
+
+$ touch server.js
+
+$ cd ..
+
+$ cd ..
+
+$ cd ..
+
+$ cd ..
+
+$ touch felipe.txt
+
+$ notepad felipe.txt
+Laboratorio-Info@Lab03 MINGW64 ~
+$ cd Desktop/devtech/projetos/sistema-interno/
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ cd src
+bash: cd: src: No such file or directory
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ cd src/
+bash: cd: src/: No such file or directory
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ ls
+backend/  frontend/
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ cd backend/
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/backend
+$ ls
+server.js  src/
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/backend
+$ cd src
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/backend/src
+$ mkdir -p {controllers,models,routes}
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/backend/src
+$ cd ..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/backend
+$ cd ..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ cd frontend
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend
+$ mkdir src
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend
+$ cd src
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend/src
+$ mkdir -p {components,pages,services}
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend/src
+$ cd ..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend
+$ cd ..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ cd frontend
+
+$ touch index.html
+
+Laboratorio-Info@Lab03 MINGW64 ~
+$ cd Desktop/devtech/projetos/sistema-interno/
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ cd src
+bash: cd: src: No such file or directory
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ cd src/
+bash: cd: src/: No such file or directory
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ ls
+backend/  frontend/
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ cd backend/
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/backend
+$ ls
+server.js  src/
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/backend
+$ cd src
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/backend/src
+$ mkdir -p {controllers,models,routes}
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/backend/src
+$ cd ..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/backend
+$ cd ..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ cd frontend
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend
+$ mkdir src
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend
+$ cd src
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend/src
+$ mkdir -p {components,pages,services}
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend/src
+$ cd ..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend
+$ cd ..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ cd frontend
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend
+$ touch index.html
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend
+$ CD ..
+bash: CD: command not found
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend
+$
+Display all 5069 possibilities? (y or n)
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend
+$ cd ..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ cd frontend/
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno/frontend
+$ cd ../..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos
+$ cd ..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech
+$ cd financeiro/
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/financeiro
+$ mkdir 2025
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/financeiro
+$ touch relatorio-anual.txt
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/financeiro
+$ cd 2025
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/financeiro/2025
+$ touch -p {janeiro.txt,fevereiro.txt,marco.txt}
+touch: unknown option -- p
+Try 'touch --help' for more information.
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/financeiro/2025
+$ touch janeiro.txt
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/financeiro/2025
+$ touch fevereiro.txt
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/financeiro/2025
+$ touch marco.txt
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/financeiro/2025
+$ cd ../..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech
+$ cd RH
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/RH
+$ touch funcionarios.txt
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/RH
+$ touch contratacoes-2025.txt
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/RH
+$ cd ..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech
+$ cd docs
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/docs
+$ mkdir -p {contratos,manuais}
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/docs
+$ cd ..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech
+$ cd projetos
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos
+$ cp -r sistema-interno/
+cp: missing destination file operand after 'sistema-interno/'
+Try 'cp --help' for more information.
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos
+$ cd sistema-interno/
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ cp -r
+cp: missing file operand
+Try 'cp --help' for more information.
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos/sistema-interno
+$ cd ..
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos
+$ cp -r sistema-interno
+cp: missing destination file operand after 'sistema-interno'
+Try 'cp --help' for more information.
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos
+$ cp -r {sistema-interno}
+cp: missing destination file operand after '{sistema-interno}'
+Try 'cp --help' for more information.
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos
+$ cp -r sistema-interno/
+cp: missing destination file operand after 'sistema-interno/'
+Try 'cp --help' for more information.
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos
+$ cp -r sistema-interno/ mv desktop/
+cp: target 'desktop/' is not a directory
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos
+$ cp -r sistema-interno/
+cp: missing destination file operand after 'sistema-interno/'
+Try 'cp --help' for more information.
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos
+$ cp -r sistema-interno deskto
+
+Laboratorio-Info@Lab03 MINGW64 ~/Desktop/devtech/projetos
+$ cp -r sistema-interno desktop
+
